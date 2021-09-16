@@ -1,4 +1,4 @@
-# Umdlars Security-tools
+# UMDLARS Security-tools
 
 ## How do I install these formulae?
 
